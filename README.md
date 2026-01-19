@@ -1,5 +1,5 @@
 # 4GW24CI045
-i'm sinchana
+I'm sinchana
 CSE(AIML) student.
 
 Currently learning python & java.
